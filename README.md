@@ -1,6 +1,6 @@
 # WWDC 21 (Accepted)
 
-My accepted WWDC 2021 submission named Music Theory and Math. It is an educational Swift Playground that teaches about the Math behind Music Theory.
+My accepted [WWDC 2021](https://github.com/wwdc/2021) submission named Music Theory and Math. It is an educational Swift Playground that teaches about the Math behind Music Theory.
 
 <img alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/wwdc21/main/images/1.png" width="600" height="290">
 <img alt="Screenshot" src="https://raw.githubusercontent.com/iberatkaya/wwdc21/main/images/2.png" width="600" height="290">
